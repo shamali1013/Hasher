@@ -22,7 +22,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'hasher=Hasher.hasher:main',  
+            'h4sher=Hasher.hasher:main',  
         ],
     },
 )
