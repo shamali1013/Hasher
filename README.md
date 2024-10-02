@@ -35,7 +35,7 @@ Hasher is a simple command-line tool for calculating the hash of files using var
    cd Hasher
    ```
 
-2. Create and activate a virtual environment (optional but recommended):
+2. Create and activate a virtual environment (mandatory on Linux):
    ```bash
    # Create a virtual environment named 'venv'
    python -m venv venv
